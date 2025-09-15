@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mem_1757933741346_s4175sa11",
+    "project": "test-project",
+    "category": "testing",
+    "title": "Test Memory Entry",
+    "content": "This is a test memory entry for functionality testing",
+    "tags": [
+      "test",
+      "functionality",
+      "mcp"
+    ],
+    "timestamp": "2025-09-15T10:55:41.346Z",
+    "context": {}
+  }
+]

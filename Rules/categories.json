@@ -1,0 +1,9 @@
+[
+  {
+    "name": "testing",
+    "description": "Rules for testing",
+    "rules": [
+      "tes-001"
+    ]
+  }
+]

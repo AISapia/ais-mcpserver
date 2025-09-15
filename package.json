@@ -1,0 +1,28 @@
+{
+  "name": "ais-mcpserver",
+  "version": "1.0.0",
+  "description": "AIS MCP Server Collection - Multiple MCP servers for various development and automation tasks",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "info": "node dist/servers/info/index.js",
+    "git-runner": "node dist/servers/git-runner/index.js",
+    "memory": "node dist/servers/memory/index.js",
+    "github": "node dist/servers/github/index.js",
+    "rules": "node dist/servers/rules/index.js"
+  },
+  "keywords": ["mcp", "server", "ai", "automation", "git", "github", "memory", "rules"],
+  "author": "AIS",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}

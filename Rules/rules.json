@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tes-001",
+    "title": "Test Persistence Rule",
+    "category": "testing",
+    "description": "",
+    "content": "This rule tests data persistence functionality",
+    "tags": [],
+    "examples": [],
+    "relatedRules": [],
+    "timestamp": "2025-09-15T10:57:08.032Z",
+    "version": "1.0.0"
+  }
+]
