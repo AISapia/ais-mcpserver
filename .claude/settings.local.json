@@ -17,7 +17,13 @@
       "Bash(node:*)",
       "Bash(timeout:*)",
       "Bash(npm run info:*)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Read(//home/**)",
+      "Bash(chmod:*)",
+      "Bash(./manage-services.sh)",
+      "Bash(./demo.sh)",
+      "Bash(/home/MCP/verify-integration.sh:*)",
+      "Bash(/home/MCP/setup-mcp-integration.sh:*)"
     ],
     "deny": [],
     "ask": []
